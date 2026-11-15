@@ -1,3 +1,7 @@
+# ARCHIVED: I'm now using Spatial Dock EX and you should too: https://logibeam.com/spatialdock/
+
+</br></br>
+
 <table>
   <tr>
     <td><img src="./assets/images/repo/Hammerspoon.png" alt="Hammerspoon" width="240"></td>
